@@ -1,0 +1,25 @@
+
+ Matrix a:
+
+1 2 
+3 4 
+
+ Matrix b:
+
+1 2 
+3 4 
+
+ a+b:
+
+2 4 
+6 8 
+
+ transposing a
+
+1 3 
+2 4 
+
+ transposing a+b
+
+2 6 
+4 8 
